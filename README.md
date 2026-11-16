@@ -1,6 +1,6 @@
 # Actividad práctica: Code smells y deuda técnica
 
-**Curso:** Ingeniería de Software · **Modalidad:** equipos de 2 o 3 estudiantes · **Duración:** 30 minutos · **Lenguaje:** Java 17+
+**Curso:** Patrones de diseño de Software · **Modalidad:** equipos de 2 o 3 estudiantes · **Duración:** 30 minutos · **Lenguaje:** Java 17+
 
 En esta actividad analizarás un componente de software real (simplificado) que ya está en producción y que acumula deuda técnica. Tu tarea es actuar como el equipo de revisión de código: **encontrar los code smells, demostrar con evidencia que existen, explicar qué consecuencias tienen y proponer cómo eliminarlos**, mejorando tanto el código como el diagrama de clases.
 
